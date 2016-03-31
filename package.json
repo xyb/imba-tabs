@@ -5,6 +5,6 @@
     "watch": "imba watch src/ -o js/"
   },
   "dependencies": {
-    "imba": "^0.14.3"
+    "imba": "^0.15.0-alpha.2"
   }
 }
