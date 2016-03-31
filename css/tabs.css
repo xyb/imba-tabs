@@ -20,7 +20,7 @@ div, ul {
 .tab {
   display: inline-block;
   vertical-align: middle;
-  width: 75px;
+  padding: 0 20px;
   height: 45px;
   line-height: 45px;
   text-align: center;
